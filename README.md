@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I am Priyanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<img src="https://avatars.githubusercontent.com/u/122208997" alt="Priyanshu Sharma" width="150" />
-
-
 ---
 
 ### 🌐 Socials
