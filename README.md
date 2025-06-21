@@ -1,33 +1,53 @@
 <h1 align="center">Hi 👋, I am Priyanshu Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack & Python Developement**
-
-- 💬 Ask me about **React, Node, MongoDB, Express, JavaScript, Python, Django**
-
-- 📫 How to reach me **priyanshuofficesharma04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/priyanshu-sharma07" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-user-id" alt="Priyanshu Sharma" width="150" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshusharma2004&show_icons=true&theme=github_dark)
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-sharma07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/PRIYANSHU_075/)
+
+---
+
+### 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusharma2004&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharma2004&layout=compact&theme=react)
+
+---
+
+### 🧠 Projects Highlights
+
+- 👕 **Grabella** – eCommerce Clothing Store  
+- 🚗 **EV-olution** – Electric Vehicle Finder  
+- ⛅ **Weather App** – Live Weather Conditions  
+- 🗣️ **Speech to Text Converter**  
+- 💻 **Microsoft Homepage Clone**  
+- 🍛 **Food Delivery App (MERN)** – A fully responsive MERN stack-based food ordering platform with filters, cart, login/signup, and admin features.  
+
+---
+
+_“I am a driven and adaptable individual who enjoys solving problems and building meaningful solutions.”_
