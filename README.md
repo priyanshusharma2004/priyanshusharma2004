@@ -2,14 +2,6 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 ---
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-sharma07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/PRIYANSHU_075/)
-
----
-
 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -25,6 +17,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-sharma07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/PRIYANSHU_075/)
 
 ---
 
